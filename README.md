@@ -1,4 +1,4 @@
-# inlupp
+# JavascriptInlämning
 
 ## Project setup
 ```
